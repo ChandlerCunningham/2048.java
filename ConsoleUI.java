@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 import api.Direction;
-import main.Game;
-import main.GameUtil;
+import master.Game;
+import master.GameUtil;
 
 public class ConsoleUI
 {
